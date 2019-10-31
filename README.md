@@ -5,6 +5,8 @@ NodeMCU (ESP8266) + Web server + 4 LED diodes = Easy IOT example
 
 <img width="225" height="385" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_Web_Server_LED/master/Screenshot_01.png" title="ESP8266 Web server">
 
+<a href="https://www.buymeacoffee.com/rSiZtB3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <h2>Default settings</h2>
 
 - **WiFi SSID:** ESP8266-IOT
