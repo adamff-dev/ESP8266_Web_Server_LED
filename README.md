@@ -1,5 +1,5 @@
 # ESP8266 Web server (LED diodes control)
-NodeMCU (ESP8266) + Web server + 4 LED diodes = Easy IOT example
+This is a simple IOT example for the NodeMCU or ESP8266. You can control some LED diodes from NodeMCU through an user-friendly web server.
 
 <h2>Web server</h2>
 
